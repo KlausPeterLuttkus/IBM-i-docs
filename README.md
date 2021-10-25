@@ -2,4 +2,4 @@
 
 ## Inhalt
 
-Images in Image Katalogen registrieren
+<a href="https://www.tagesschau.de/" target="_blank">Images in Image Katalogen registrieren</a>
